@@ -214,10 +214,10 @@ Edit existing categories using the Edit button.
 Remove categories with the Delete button.
 
 <p>
+<img width="934" height="549" alt="login" src="https://github.com/user-attachments/assets/71dc26a5-9bf9-4ee9-b0ae-dd56d7d83819" />
 <img width="1349" height="615" alt="Dashboard" src="https://github.com/user-attachments/assets/f37b7fc0-4c3d-4a8f-b555-590bdc4fe749" />
 <img width="1349" height="615" alt="All Products" src="https://github.com/user-attachments/assets/44fd4712-e6d3-4ab4-9914-798d5df73c06" />
 <img width="1349" height="615" alt="All Sales" src="https://github.com/user-attachments/assets/475ca425-2683-420e-93b2-9360cd5c0ebf" />
-<img width="934" height="549" alt="login" src="https://github.com/user-attachments/assets/71dc26a5-9bf9-4ee9-b0ae-dd56d7d83819" />
 </p>
 
 
