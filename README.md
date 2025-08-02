@@ -50,7 +50,7 @@
 
 ### 1. Clone the repo
 ```
-git clone https://github.com/ahmadhanif0/pharmacy-management-system.git
+https://github.com/ahmadhanif0/pharmacy-management-system.git
 
 ```
 2. Go to project directory
