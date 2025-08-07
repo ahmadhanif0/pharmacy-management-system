@@ -40,8 +40,6 @@
 - **Frontend**: Blade, Bootstrap, JavaScript
 - **Database**: MySQL
 - **Email Service**: Mailtrap / Gmail
-- **Auth**: Laravel Breeze / Laravel UI (depending on implementation)
-
 
 
 
